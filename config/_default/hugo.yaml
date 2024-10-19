@@ -54,3 +54,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+module:
+  imports:
+  - path: github.com/hugomods/icons/vendors/bootstrap

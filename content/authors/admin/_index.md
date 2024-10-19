@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Horror / Varietay Streamer
+role: Horror / Variety Streamer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
