@@ -25,7 +25,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: mammothgrey.png
+          filename: mammothgrey_wide.png
           filters:
             brightness: 1.0
           size: cover
