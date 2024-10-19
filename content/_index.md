@@ -16,8 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        icon: |-
-          {{< ico bootstrap twitch >}}
+        icon: custom/twitch
         text: Twitch
         url: https://twitch.tv/mammothmannny
     design:
@@ -37,8 +36,7 @@ sections:
     content:
       buttons:
         - text: Twitch
-          icon: |-
-            {{< ico bootstrap twitch >}}
+          icon: custom/twitch
           url: http://tvitch.com/mamnmothmannny
         - text: Discord
           icon: brands/discord
