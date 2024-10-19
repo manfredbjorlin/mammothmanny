@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        icon: brands/twitch
+        icon: {{< ico bootstrap house >}}
         text: Twitch
         url: uploads/resume.pdf
     design:
