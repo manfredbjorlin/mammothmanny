@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         icon: brands/twitch
-        text: Download CV
+        text: Twitch
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -31,7 +31,7 @@ sections:
           size: cover
           position: center
           parallax: false  
-  - block: block: cta-button-list
+  - block: cta-button-list
     id: links
     content:
       buttons:
